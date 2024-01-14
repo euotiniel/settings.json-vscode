@@ -1,4 +1,4 @@
-# Configurações VSCOde
+# VSCOde Configurations
 
 ### settings.json v1
 
@@ -41,6 +41,6 @@
 ```
 ---
 
-## Baixe e instale a fonte Fira Code em seu computadior
+## Download and install the Fira Code font on your computer
 
 - [Fira code repo](https://github.com/tonsky/FiraCode)
