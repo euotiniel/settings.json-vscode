@@ -1,4 +1,4 @@
-# VSCOde Configurations
+# VSCode Configurations
 
 ### settings.json v1
 
